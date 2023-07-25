@@ -1,0 +1,32 @@
+ body{
+  background: #11171E ;
+}
+.container-fluid{
+  margin-top: 20px ; 
+}
+.container-txt{
+  white: 400px;
+  height: 400px;
+}
+.bg-tela{
+  background: #878787;
+}
+
+.bg-tela2{
+  background: #D3D3D3;
+}
+
+.footer-dark {
+  padding:50px 0;
+  background-color:#282d32;
+  position: static;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.espaço{
+  margin-top: 20px; 
+}
+h2{
+  color: #D3D3D3;
+}
